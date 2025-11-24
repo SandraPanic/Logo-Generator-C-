@@ -1,2 +1,11 @@
-# Logo-Generator-C-
-A C# application that generates custom logos with user-defined text, colors, and shapes. Developed as a programming practice project.
+# Logo Generator in C#
+
+This is a simple C# application to generate custom logos with text and colors.
+
+## Features
+- Add custom text
+- Choose colors
+- Save as image
+
+## How to Run
+Open in Visual Studio and run the project.
