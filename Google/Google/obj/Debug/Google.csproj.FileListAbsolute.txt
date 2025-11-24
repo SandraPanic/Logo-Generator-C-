@@ -1,0 +1,18 @@
+C:\Users\spani\Desktop\Faks\6. semestar\Računarska grafika 2\Google\Google\bin\Debug\Google.exe.config
+C:\Users\spani\Desktop\Faks\6. semestar\Računarska grafika 2\Google\Google\bin\Debug\Google.exe
+C:\Users\spani\Desktop\Faks\6. semestar\Računarska grafika 2\Google\Google\bin\Debug\Google.pdb
+C:\Users\spani\Desktop\Faks\6. semestar\Računarska grafika 2\Google\Google\obj\Debug\Google.csproj.AssemblyReference.cache
+C:\Users\spani\Desktop\Faks\6. semestar\Računarska grafika 2\Google\Google\obj\Debug\Google.Properties.Resources.resources
+C:\Users\spani\Desktop\Faks\6. semestar\Računarska grafika 2\Google\Google\obj\Debug\Google.csproj.GenerateResource.cache
+C:\Users\spani\Desktop\Faks\6. semestar\Računarska grafika 2\Google\Google\obj\Debug\Google.csproj.CoreCompileInputs.cache
+C:\Users\spani\Desktop\Faks\6. semestar\Računarska grafika 2\Google\Google\obj\Debug\Google.exe
+C:\Users\spani\Desktop\Faks\6. semestar\Računarska grafika 2\Google\Google\obj\Debug\Google.pdb
+C:\Users\spani\OneDrive\Desktop\Faks\OSNOVNE STUDIJE\6. semestar\Računarska grafika 2\LOGOI\Google\Google\bin\Debug\Google.exe.config
+C:\Users\spani\OneDrive\Desktop\Faks\OSNOVNE STUDIJE\6. semestar\Računarska grafika 2\LOGOI\Google\Google\bin\Debug\Google.exe
+C:\Users\spani\OneDrive\Desktop\Faks\OSNOVNE STUDIJE\6. semestar\Računarska grafika 2\LOGOI\Google\Google\bin\Debug\Google.pdb
+C:\Users\spani\OneDrive\Desktop\Faks\OSNOVNE STUDIJE\6. semestar\Računarska grafika 2\LOGOI\Google\Google\obj\Debug\Google.csproj.AssemblyReference.cache
+C:\Users\spani\OneDrive\Desktop\Faks\OSNOVNE STUDIJE\6. semestar\Računarska grafika 2\LOGOI\Google\Google\obj\Debug\Google.Properties.Resources.resources
+C:\Users\spani\OneDrive\Desktop\Faks\OSNOVNE STUDIJE\6. semestar\Računarska grafika 2\LOGOI\Google\Google\obj\Debug\Google.csproj.GenerateResource.cache
+C:\Users\spani\OneDrive\Desktop\Faks\OSNOVNE STUDIJE\6. semestar\Računarska grafika 2\LOGOI\Google\Google\obj\Debug\Google.csproj.CoreCompileInputs.cache
+C:\Users\spani\OneDrive\Desktop\Faks\OSNOVNE STUDIJE\6. semestar\Računarska grafika 2\LOGOI\Google\Google\obj\Debug\Google.exe
+C:\Users\spani\OneDrive\Desktop\Faks\OSNOVNE STUDIJE\6. semestar\Računarska grafika 2\LOGOI\Google\Google\obj\Debug\Google.pdb
